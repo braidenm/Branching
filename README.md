@@ -6,8 +6,6 @@ This will list ways to ceate and manage branches.
 
 `git branch BRANCH_NAME` - create a new branch called BRANCH_NAME
 
-Befor you intend to merge a branch, pull from `mater` locally.
-
 `git checkout BRANCH_NAME` to switch branches. 
 
 Befor you intend to merge a branch, pull from `master` locally.
